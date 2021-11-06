@@ -9,7 +9,8 @@ Study: GradientBased Learning Applied to Document Recognition
 LeNet-5 CNN architecture is made up of 7 layers. The layer composition consists of 3 convolutional layers, 2 subsampling layers and 2 fully connected layers.
 
 </br>
-![architecure](architecture.png)
+
+![architecture](architecture.png)
 </br>
 
 Below is a table that summarises the key features of each layer
